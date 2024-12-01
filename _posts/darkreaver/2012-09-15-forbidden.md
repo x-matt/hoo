@@ -8,7 +8,7 @@ categories: [darkreaver]
 tags: [beauty]
 math: true
 mermaid: true
-img_path: /assets/img/posts/2012-09-15/
+media_subpath: /assets/img/posts/2012-09-15/
 image:
   path: 0.jpg
   width: 800
